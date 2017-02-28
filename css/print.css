@@ -1,0 +1,107 @@
+body {
+  margin: 1em;
+  background-color: #fff;
+  font-family: sans-serif;
+  font-size:13px;
+}
+th {
+  text-align: left; /* LTR */
+  color: #006;
+  border-bottom: 1px solid #ccc;
+}
+tr.odd {background-color: #ddd;}
+tr.even {background-color: #fff;}
+td {padding: 5px;}
+#menu {visibility: hidden;}
+#main {margin: 1em;}
+a:link {color: #000;}
+a:visited {color: #000;}
+a:hover {color: #00f;}
+a:link img, a:visited img {border: 0;}
+.print-footnote {font-size: xx-small;}
+img.print-logo {border: 0;}
+.print-site_name {}
+.print-breadcrumb {font-size: x-small;}
+.print-title {}
+.print-submitted {font-size: small;}
+.print-created {font-size: small;}
+.print-taxonomy {text-align: right;}
+.print-taxonomy li {display: inline;}
+.print-content {}
+.print-hr {
+  border: 0;
+  height: 1px;
+  width: 100%;
+  color: #9E9E9E;
+  background-color: #9E9E9E;
+}
+.print-message {
+  border: medium dotted blue;
+  padding: 1em;
+}
+.print-source_url {font-size: small;}
+.print-links {font-size: small;}
+.print-footer {text-align: center;}
+
+.field-type-field-collection .field-label{width:137px;}
+
+.field-type-field-collection .field-items th {width:29px; padding:0px}
+.field-type-field-collection .field-items td {width:29px; padding:0px 4px;}
+.field-name-field-ca-score .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+.field-name-field-exam-score .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+.field-name-field-total-score .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+.field-name-field-ca-1st- .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+.field-name-field-ca-2nd- .field-items{width:35px !important; border-left:2px solid #000; padding-left:4px;}
+.field-name-field-ca-3rd- .field-items{width:35px !important; border-left:2px solid #000; padding-left:4px;}
+.field-name-field-exam-1st- .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+.field-name-field-exam-2nd- .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+.field-name-field-exam-3rd- .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+.field-name-field-total-1-st- .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+.field-name-field-total-2-nd- .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+.field-name-field-total-3-rd- .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+
+.field-name-field-ca-2 .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px; border-bottom:1px solid #D3D7D9;}
+.field-name-field-ca-2nd-2 .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px; border-bottom:1px solid #D3D7D9;}
+.field-name-field-ca-3rd-2 .field-items{width:35px !important; border-left:1px solid #D3D7D9; padding-left:4px; border-bottom:1px solid #D3D7D9;}
+
+
+.field-name-field-stanine-grade- .field-items{width:15px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+.field-name-field-remark .field-items{width:85px !important; border-left:1px solid #D3D7D9; padding-left:4px;}
+.field-name-field-subject-average- .field-items{width:35px !important; border-left:2px solid #000; padding-left:4px;}
+.field-name-field-physics .field-items{width:513px;}
+.field-name-field-further-mathematics .field-items {width:513px;}
+.field-name-field-agric-science .field-items {width:513px;}
+.field-name-field-arabic-language .field-items {width:513px;}
+.field-name-field-basic-science .field-items {width:513px;}
+.field-name-field-basic-technology .field-items {width:513px;}
+.field-name-field-biology .field-items {width:513px;}
+.field-name-field-business-studies .field-items {width:513px;}
+.field-name-field-chemistry .field-items {width:513px;}
+.field-name-field-civic-education .field-items {width:513px;}
+.field-name-field-commerce .field-items {width:513px;}
+.field-name-field-computer-studies .field-items {width:513px;}
+.field-name-field-cultural-creative-arts .field-items {width:513px;}
+.field-name-field-economics .field-items {width:513px;}
+.field-name-field-english-language .field-items {width:513px;}
+.field-name-field-financial-accounting .field-items {width:513px;}
+.field-name-field-french .field-items {width:513px;}
+.field-name-field-geography .field-items {width:513px;}
+.field-name-field-government .field-items {width:513px;}
+.field-name-field-home-economics .field-items {width:513px;}
+.field-name-field-irs .field-items {width:513px;}
+.field-name-field-lit-in-english .field-items {width:513px;}
+.field-name-field-mathematics .field-items {width:513px;}
+.field-name-field-physical-health-edu- .field-items {width:513px;}
+.field-name-field-practical-agriculture .field-items {width:513px;}
+.field-name-field-quran-memorization .field-items {width:513px;}
+.field-name-field-social-studies .field-items {width:513px;}
+.field-name-field-technical-drawing .field-items {width:513px;}
+.field-name-field-yoruba .field-items {width:513px;}
+
+.field-name-field-health-science .field-items {width:513px;}
+.field-name-field-phonetics .field-items {width:513px;}
+.field-name-field-quantitative-reasoning .field-items {width:513px;}
+.field-name-field-science-technology .field-items {width:513px;}
+.field-name-field-verbal-reasoning .field-items {width:513px;}
+.field-name-field-vocational-aptitude .field-items {width:513px;}
+.field-name-field-writing .field-items {width:513px;}
